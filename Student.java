@@ -2,7 +2,7 @@ class Student {
 	String index;
 	String firstName;
 	String lastName;
-
+	List<int> labPoints;
 	//TODO constructor
 
 	//TODO seters & getters
